@@ -2,6 +2,7 @@
 
 [![Nieuwste release](https://img.shields.io/github/v/release/aalhabeeb/SMUI-releases?label=nieuwste%20versie&color=2ea043&sort=semver)](https://github.com/aalhabeeb/SMUI-releases/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/aalhabeeb/SMUI-releases/total?label=downloads&color=1f6feb)](https://github.com/aalhabeeb/SMUI-releases/releases)
+[![Licentie: MIT](https://img.shields.io/badge/licentie-MIT-blue)](https://github.com/aalhabeeb/SMUI-releases/blob/main/LICENSE)
 
 Publieke **`.deb`** en **`.rpm`** packages voor **SMUI** (Storage Management UI):
 een nmtui-achtige TUI voor opslagbeheer (partities, LVM PV/VG/LV, filesystems
@@ -59,6 +60,15 @@ sudo dnf install ./smui-*.noarch.rpm
 > `fzf` (optioneel, voor filterbare lijsten met muis) zit op RHEL in **EPEL**.
 > Zonder `fzf` werkt SMUI gewoon met het `dialog`-menu.
 
+## Schermafbeelding
+
+<!-- Voeg hier een screenshot of GIF toe. Sleep in de GitHub-webeditor een
+     afbeelding in dit bestand; GitHub maakt er automatisch een URL van, of
+     commit een bestand (bijv. docs/smui.png) en verwijs ernaar:
+     ![SMUI](docs/smui.png) -->
+
+_Nog toe te voegen._
+
 ## Gebruik
 
 `smui` moet als root draaien:
@@ -103,4 +113,4 @@ losse disk of test-VM.
 
 ## Licentie
 
-MIT.
+MIT — zie [LICENSE](LICENSE).
